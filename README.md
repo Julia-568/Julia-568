@@ -27,8 +27,6 @@ Sempre aprendendo algo novo todos os dias
 
 <img src="https://img.shields.io/badge/SpringBoot-0d1117?style=for-the-badge&logo=springboot&logoColor=00ff88"/>
 
-<img src="https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=ff00ff"/>
-
 <img src="https://img.shields.io/badge/FullStack-0d1117?style=for-the-badge&logo=react&logoColor=00d9ff"/>
 
 </div>
@@ -42,4 +40,8 @@ Sempre aprendendo algo novo todos os dias
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kaz1nzx/kaz1nzx/output/pacman-contribution-graph.svg">
   </picture>
 </div>
+
+<br><br>
+
+<div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEUSPOTIFY&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/> </div>
 
