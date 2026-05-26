@@ -29,8 +29,6 @@ Sempre aprendendo algo novo todos os dias
 
 <img src="https://img.shields.io/badge/SpringBoot-0d1117?style=for-the-badge&logo=springboot&logoColor=00ff88"/>
 
-<img src="https://img.shields.io/badge/Visual_Studio-0d1117?style=for-the-badge&logo=visualstudio&logoColor=6e40c9"/>
-
 <img src="https://img.shields.io/badge/FullStack-0d1117?style=for-the-badge&logo=react&logoColor=00d9ff"/>
 
 </div>
