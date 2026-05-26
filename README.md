@@ -14,41 +14,36 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaz1nzx/kaz1nzx/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kaz1nzx/kaz1nzx/output/pacman-contribution-graph.svg">
   </picture>
-
-
 </div>
 
 ---
 
-# 👩‍💻 Sobre Mim
+<h2 align="left">👩‍💻 Sobre Mim</h2>
 
-```javascript
-const julia = {
-    name: "Julia de Souza Serafim",
-    country: "Brazil 🇧🇷",
-    
-    role: "Full Stack Developer",
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-    focus: [
-        "Java Back-end",
-        "Cybersecurity",
-        "Spring Boot",
-        "Web Development"
-    ],
+<p align="left">
 
-    currentlyLearning: [
-        "REST APIs",
-        "SQL",
-        "System Security",
-        "UI/UX"
-    ],
+✨ Oi! Me chamo <b>Julia</b> <br>
+💜 Apaixonada por tecnologia e desenvolvimento Full Stack <br>
+🚀 Focada em Java Back-end e Spring Boot <br>
+🔐 Estudando Cybersecurity e segurança de sistemas <br>
+🎨 Interessada em UI/UX e interfaces modernas <br>
+📚 Sempre aprendendo algo novo todos os dias
 
-    passions: [
-        "Technology",
-        "Programming",
-        "Innovation",
-        "Creative Design"
-    ],
+</p>
 
-    lifePhilosophy: "Transforming ideas into code 🚀"
+<br><br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00d9ff"/>
+
+<img src="https://img.shields.io/badge/SpringBoot-0d1117?style=for-the-badge&logo=springboot&logoColor=00ff88"/>
+
+<img src="https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=ff00ff"/>
+
+<img src="https://img.shields.io/badge/FullStack-0d1117?style=for-the-badge&logo=react&logoColor=00d9ff"/>
+
+</div>
 }
