@@ -8,16 +8,6 @@
 
 ---
 
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaz1nzx/kaz1nzx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaz1nzx/kaz1nzx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kaz1nzx/kaz1nzx/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
----
-
 <h2 align="left">👩‍💻 Sobre Mim</h2>
 
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
@@ -25,10 +15,8 @@
 <p align="left">
 
 ✨ Oi! Me chamo <b>Julia</b> <br>
-💜 Apaixonada por tecnologia e desenvolvimento Full Stack <br>
-🚀 Focada em Java Back-end e Spring Boot <br>
-🔐 Estudando Cybersecurity e segurança de sistemas <br>
-🎨 Interessada em UI/UX e interfaces modernas <br>
+🚀 Focada em Java, JavaScript, Spring Boot e VS Code <br>
+🔐 Estudando Desenvolvimento de Sistemas no SENAI<br>
 📚 Sempre aprendendo algo novo todos os dias
 
 </p>
@@ -46,4 +34,12 @@
 <img src="https://img.shields.io/badge/FullStack-0d1117?style=for-the-badge&logo=react&logoColor=00d9ff"/>
 
 </div>
-}
+
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaz1nzx/kaz1nzx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaz1nzx/kaz1nzx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kaz1nzx/kaz1nzx/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
