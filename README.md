@@ -3,7 +3,7 @@
 <!-- ========================================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00D9FF&center=true&vCenter=true&width=900&lines=👩‍💻+Julia+de+Souza+Serafim;Full+Stack+Developer;Cybersecurity+Enthusiast;Java+Back-end+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00D9FF&center=true&vCenter=true&width=900&lines=Julia+de+Souza+Serafim;Full+Stack+Developer;Java+Back-end+Developer" />
 </h1>
 
 ---
