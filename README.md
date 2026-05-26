@@ -31,6 +31,8 @@ Sempre aprendendo algo novo todos os dias
 
 <img src="https://img.shields.io/badge/FullStack-0d1117?style=for-the-badge&logo=react&logoColor=00d9ff"/>
 
+<img src="https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00d9ff"/>
+
 </div>
 
 <br><br>
